@@ -1,2 +1,3 @@
-# contract
-Black Hat Token Contract
+# Black Hat Token Contract
+
+https://BlackHatToken.com
